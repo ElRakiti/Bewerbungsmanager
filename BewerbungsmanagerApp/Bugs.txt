@@ -1,0 +1,3 @@
+﻿Bekannte Bugs:
+
+- Anreden für Ansprechpartner funktionieren noch nicht richtig, sind deswegen aktuell deaktiviert.

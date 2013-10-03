@@ -1,0 +1,6 @@
+﻿ToDo:
+
+- Aktuell wird noch bei jeder Änderung einer Stelle (egal ob sich eine Property, Termin oder Ansprechpartner ändert), sämtliche Komponenten / Steuerlemente aktualisiert
+  (so, als würde eine neue Stelle ausgewählt werden). Hier sollte noch ein differenziertes Update stattfinden, sodass bei einem neuen Termin auch nur der Kalender aktualisiert wird.
+
+- SplitContainer im MainForm soll noch Collapsible werden.
